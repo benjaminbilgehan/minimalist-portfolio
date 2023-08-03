@@ -1,0 +1,22 @@
+
+
+// https://huemint.com/bootstrap-plus/#palette=4a81c7-ffffff-000805-ffd956-979196-c4d9c7-49bce4-f77257-ffb1ad
+
+$white: #ffffff;
+
+$theme-colors: (
+    "light":      #4a81c7,
+    "dark":       #000805,
+    "primary":    #ffd956,
+    "secondary":  #979196,
+    "info":       #c4d9c7,
+    "accent1":    #49bce4,
+    "accent2":    #f77257,
+    "accent3":    #ffb1ad,
+    "success":    #59d300,
+    "warning":    #ffcf84,
+    "danger":     #ff2766,
+);
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
